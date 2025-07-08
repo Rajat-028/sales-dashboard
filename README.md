@@ -1,4 +1,5 @@
-# Aryan_store
+# store sales
+
 The Store Sales Analysis in Power BI is a data-driven approach to understanding and optimizing sales performance across various stores. It provides interactive dashboards and reports that help businesses track key metrics such as total revenue, profit margins, customer demographics, product performance, and regional sales trends.
 By integrating multiple data sources (sales transactions, inventory, customer information, and store details), Power BI allows businesses to identify sales trends, high-performing products, and customer behavior patterns. This analysis helps decision-makers improve inventory management, pricing strategies, marketing campaigns, and overall business growth.
 Key Features:
